@@ -32,7 +32,7 @@
 	"alwaysOnTop": false,
 	"copyFormatting": "all",
 	"copyOnSelect": false,
-	"defaultProfile": "{00000000-0000-0000-ba54-000000000002}",
+	"defaultProfile": "{2ece5bfe-50ed-5f3a-ab87-5cd4baafed2b}",
 	"launchMode": "maximized",
 	"profiles": {
 		"defaults": {
@@ -48,14 +48,10 @@
 		},
 		"list": [
 			{
-				"colorScheme": "One Half Dark",
-				"commandline": "%PROGRAMFILES%/Git/bin/bash.exe -i -l",
-				"font": {
-					"face": "Fira Code"
-				},
-				"guid": "{00000000-0000-0000-ba54-000000000002}",
-				"icon": "%PROGRAMFILES%/Git/mingw64/share/git/git-for-windows.ico",
-				"name": "Bash",
+				"guid": "{2ece5bfe-50ed-5f3a-ab87-5cd4baafed2b}",
+				"source": "Git",
+                "hidden": false,
+				"name": "Git Bash",
 				"padding": "0"
 			},
 			{
@@ -90,7 +86,7 @@
 				},
 				"guid": "{00000000-0000-0000-ba54-000000000003}",
 				"hidden": false,
-				"name": "Command Prompt",
+				"name": "Retro Prompt",
 				"padding": "5, 5, 5, 5",
 				"tabTitle": "Command Prompt"
 			}
