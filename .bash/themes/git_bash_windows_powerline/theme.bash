@@ -1,11 +1,3 @@
-# Git bash for windows powerline theme
-#
-# Licensed under MIT
-# Based on https://github.com/Bash-it/bash-it and https://github.com/Bash-it/bash-it/tree/master/themes/powerline
-# Some ideas from https://github.com/speedenator/agnoster-bash
-# Git code based on https://github.com/joeytwiddle/git-aware-prompt/blob/master/prompt.sh
-# More info about color codes in https://en.wikipedia.org/wiki/ANSI_escape_code
-
 PROMPT_CHAR=${POWERLINE_PROMPT_CHAR:=""}
 POWERLINE_LEFT_SEPARATOR=" "
 POWERLINE_PROMPT="last_status user_info cwd scm"
